@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from exceptions import (
+from src.exceptions import (
     ingrese_numero,
     NumeroDebeSerPositivo,
 )
